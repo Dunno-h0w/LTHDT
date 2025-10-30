@@ -1,0 +1,65 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<SanPhams>
+	<SanPham Loai="ChamSocDa">
+		<MaSP>SP01</MaSP>
+		<TenSP>Sữa rửa mặt Hada Labo</TenSP>
+		<TrongLuong>5.5</TrongLuong>
+		<GiaBan>120000</GiaBan>
+		<XuatXu>Nhật Bản</XuatXu>
+		<NgaySX>2024-05-10</NgaySX>
+	</SanPham>
+
+	<SanPham Loai="TrangDiem">
+		<MaSP>SP02</MaSP>
+		<TenSP>Son môi Dior</TenSP>
+		<TrongLuong>7</TrongLuong>
+		<GiaBan>250000</GiaBan>
+		<XuatXu>Pháp</XuatXu>
+		<NgaySX>2024-07-15</NgaySX>
+	</SanPham>
+
+	<SanPham Loai="ChongNang">
+		<MaSP>SP03</MaSP>
+		<TenSP>Kem chống nắng Biore</TenSP>
+		<TrongLuong>8</TrongLuong>
+		<GiaBan>340000</GiaBan>
+		<XuatXu>Việt Nam</XuatXu>
+		<NgaySX>2024-03-25</NgaySX>
+	</SanPham>
+
+	<SanPham Loai="ChamSocDa">
+		<MaSP>SP04</MaSP>
+		<TenSP>Kem dưỡng ẩm Laneige</TenSP>
+		<TrongLuong>3.3</TrongLuong>
+		<GiaBan>320000</GiaBan>
+		<XuatXu>Hàn Quốc</XuatXu>
+		<NgaySX>2024-01-20</NgaySX>
+	</SanPham>
+
+	<SanPham Loai="TrangDiem">
+		<MaSP>SP05</MaSP>
+		<TenSP>Phấn nền Maybelline</TenSP>
+		<TrongLuong>3.1</TrongLuong>
+		<GiaBan>150000</GiaBan>
+		<XuatXu>Mỹ</XuatXu>
+		<NgaySX>2023-12-15</NgaySX>
+	</SanPham>
+
+	<SanPham Loai="ChongNang">
+		<MaSP>SP06</MaSP>
+		<TenSP>Kem chống nắng Vichy</TenSP>
+		<TrongLuong>1.4</TrongLuong>
+		<GiaBan>280000</GiaBan>
+		<XuatXu>Pháp</XuatXu>
+		<NgaySX>2024-06-10</NgaySX>
+	</SanPham>
+
+	<SanPham Loai="ChamSocDa">
+		<MaSP>SP07</MaSP>
+		<TenSP>Toner Innisfree</TenSP>
+		<TrongLuong>8.1</TrongLuong>
+		<GiaBan>110000</GiaBan>
+		<XuatXu>Hàn Quốc</XuatXu>
+		<NgaySX>2024-04-05</NgaySX>
+	</SanPham>
+</SanPhams>
