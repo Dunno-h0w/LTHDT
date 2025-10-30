@@ -1,0 +1,24 @@
+C:\Users\Admin\Desktop\Lập trình hưỡng đối tượng\ConsoleApp1\DTO\bin\Debug\DTO.dll
+C:\Users\Admin\Desktop\Lập trình hưỡng đối tượng\ConsoleApp1\DTO\bin\Debug\DTO.pdb
+C:\Users\Admin\Desktop\Lập trình hưỡng đối tượng\ConsoleApp1\DTO\obj\Debug\DTO.csproj.AssemblyReference.cache
+C:\Users\Admin\Desktop\Lập trình hưỡng đối tượng\ConsoleApp1\DTO\obj\Debug\DTO.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\Lập trình hưỡng đối tượng\ConsoleApp1\DTO\obj\Debug\DTO.dll
+C:\Users\Admin\Desktop\Lập trình hưỡng đối tượng\ConsoleApp1\DTO\obj\Debug\DTO.pdb
+D:\Lap trinh\ConsoleApp1\DTO\bin\Debug\DTO.dll
+D:\Lap trinh\ConsoleApp1\DTO\bin\Debug\DTO.pdb
+D:\Lap trinh\ConsoleApp1\DTO\obj\Debug\DTO.csproj.AssemblyReference.cache
+D:\Lap trinh\ConsoleApp1\DTO\obj\Debug\DTO.csproj.CoreCompileInputs.cache
+D:\Lap trinh\ConsoleApp1\DTO\obj\Debug\DTO.dll
+D:\Lap trinh\ConsoleApp1\DTO\obj\Debug\DTO.pdb
+C:\Users\Admin\Desktop\FINAL1\ConsoleApp1\DTO\bin\Debug\DTO.dll
+C:\Users\Admin\Desktop\FINAL1\ConsoleApp1\DTO\bin\Debug\DTO.pdb
+C:\Users\Admin\Desktop\FINAL1\ConsoleApp1\DTO\obj\Debug\DTO.csproj.AssemblyReference.cache
+C:\Users\Admin\Desktop\FINAL1\ConsoleApp1\DTO\obj\Debug\DTO.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\FINAL1\ConsoleApp1\DTO\obj\Debug\DTO.dll
+C:\Users\Admin\Desktop\FINAL1\ConsoleApp1\DTO\obj\Debug\DTO.pdb
+C:\Users\Admin\Desktop\FINAL1\QuanLyMuaHang\DTO\bin\Debug\DTO.dll
+C:\Users\Admin\Desktop\FINAL1\QuanLyMuaHang\DTO\bin\Debug\DTO.pdb
+C:\Users\Admin\Desktop\FINAL1\QuanLyMuaHang\DTO\obj\Debug\DTO.csproj.AssemblyReference.cache
+C:\Users\Admin\Desktop\FINAL1\QuanLyMuaHang\DTO\obj\Debug\DTO.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\FINAL1\QuanLyMuaHang\DTO\obj\Debug\DTO.dll
+C:\Users\Admin\Desktop\FINAL1\QuanLyMuaHang\DTO\obj\Debug\DTO.pdb

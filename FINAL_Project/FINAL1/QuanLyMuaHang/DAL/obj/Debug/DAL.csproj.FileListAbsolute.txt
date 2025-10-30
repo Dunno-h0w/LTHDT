@@ -1,0 +1,27 @@
+C:\Users\Admin\Desktop\Lập trình hưỡng đối tượng\ConsoleApp1\DAL\bin\Debug\DAL.dll
+C:\Users\Admin\Desktop\Lập trình hưỡng đối tượng\ConsoleApp1\DAL\bin\Debug\DAL.pdb
+C:\Users\Admin\Desktop\Lập trình hưỡng đối tượng\ConsoleApp1\DAL\bin\Debug\DTO.dll
+C:\Users\Admin\Desktop\Lập trình hưỡng đối tượng\ConsoleApp1\DAL\bin\Debug\DTO.pdb
+C:\Users\Admin\Desktop\Lập trình hưỡng đối tượng\ConsoleApp1\DAL\obj\Debug\DAL.csproj.AssemblyReference.cache
+C:\Users\Admin\Desktop\Lập trình hưỡng đối tượng\ConsoleApp1\DAL\obj\Debug\DAL.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\Lập trình hưỡng đối tượng\ConsoleApp1\DAL\obj\Debug\DAL.csproj.Up2Date
+C:\Users\Admin\Desktop\Lập trình hưỡng đối tượng\ConsoleApp1\DAL\obj\Debug\DAL.dll
+C:\Users\Admin\Desktop\Lập trình hưỡng đối tượng\ConsoleApp1\DAL\obj\Debug\DAL.pdb
+D:\Lap trinh\ConsoleApp1\DAL\bin\Debug\DAL.dll
+D:\Lap trinh\ConsoleApp1\DAL\bin\Debug\DAL.pdb
+D:\Lap trinh\ConsoleApp1\DAL\bin\Debug\DTO.dll
+D:\Lap trinh\ConsoleApp1\DAL\bin\Debug\DTO.pdb
+D:\Lap trinh\ConsoleApp1\DAL\obj\Debug\DAL.csproj.AssemblyReference.cache
+D:\Lap trinh\ConsoleApp1\DAL\obj\Debug\DAL.csproj.CoreCompileInputs.cache
+D:\Lap trinh\ConsoleApp1\DAL\obj\Debug\DAL.csproj.Up2Date
+D:\Lap trinh\ConsoleApp1\DAL\obj\Debug\DAL.dll
+D:\Lap trinh\ConsoleApp1\DAL\obj\Debug\DAL.pdb
+C:\Users\Admin\Desktop\FINAL1\ConsoleApp1\DAL\bin\Debug\DAL.dll
+C:\Users\Admin\Desktop\FINAL1\ConsoleApp1\DAL\bin\Debug\DAL.pdb
+C:\Users\Admin\Desktop\FINAL1\ConsoleApp1\DAL\bin\Debug\DTO.dll
+C:\Users\Admin\Desktop\FINAL1\ConsoleApp1\DAL\bin\Debug\DTO.pdb
+C:\Users\Admin\Desktop\FINAL1\ConsoleApp1\DAL\obj\Debug\DAL.csproj.AssemblyReference.cache
+C:\Users\Admin\Desktop\FINAL1\ConsoleApp1\DAL\obj\Debug\DAL.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\FINAL1\ConsoleApp1\DAL\obj\Debug\DAL.csproj.Up2Date
+C:\Users\Admin\Desktop\FINAL1\ConsoleApp1\DAL\obj\Debug\DAL.dll
+C:\Users\Admin\Desktop\FINAL1\ConsoleApp1\DAL\obj\Debug\DAL.pdb

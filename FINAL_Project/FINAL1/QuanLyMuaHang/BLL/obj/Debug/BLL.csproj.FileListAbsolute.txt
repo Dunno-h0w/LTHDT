@@ -1,0 +1,44 @@
+C:\Users\Admin\Desktop\Lập trình hưỡng đối tượng\ConsoleApp1\BLL\bin\Debug\BLL.dll
+C:\Users\Admin\Desktop\Lập trình hưỡng đối tượng\ConsoleApp1\BLL\bin\Debug\BLL.pdb
+C:\Users\Admin\Desktop\Lập trình hưỡng đối tượng\ConsoleApp1\BLL\bin\Debug\DAL.dll
+C:\Users\Admin\Desktop\Lập trình hưỡng đối tượng\ConsoleApp1\BLL\bin\Debug\DTO.dll
+C:\Users\Admin\Desktop\Lập trình hưỡng đối tượng\ConsoleApp1\BLL\bin\Debug\DAL.pdb
+C:\Users\Admin\Desktop\Lập trình hưỡng đối tượng\ConsoleApp1\BLL\bin\Debug\DTO.pdb
+C:\Users\Admin\Desktop\Lập trình hưỡng đối tượng\ConsoleApp1\BLL\obj\Debug\BLL.csproj.AssemblyReference.cache
+C:\Users\Admin\Desktop\Lập trình hưỡng đối tượng\ConsoleApp1\BLL\obj\Debug\BLL.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\Lập trình hưỡng đối tượng\ConsoleApp1\BLL\obj\Debug\BLL.csproj.Up2Date
+C:\Users\Admin\Desktop\Lập trình hưỡng đối tượng\ConsoleApp1\BLL\obj\Debug\BLL.dll
+C:\Users\Admin\Desktop\Lập trình hưỡng đối tượng\ConsoleApp1\BLL\obj\Debug\BLL.pdb
+D:\Lap trinh\ConsoleApp1\BLL\bin\Debug\BLL.dll
+D:\Lap trinh\ConsoleApp1\BLL\bin\Debug\BLL.pdb
+D:\Lap trinh\ConsoleApp1\BLL\bin\Debug\DAL.dll
+D:\Lap trinh\ConsoleApp1\BLL\bin\Debug\DTO.dll
+D:\Lap trinh\ConsoleApp1\BLL\bin\Debug\DAL.pdb
+D:\Lap trinh\ConsoleApp1\BLL\bin\Debug\DTO.pdb
+D:\Lap trinh\ConsoleApp1\BLL\obj\Debug\BLL.csproj.AssemblyReference.cache
+D:\Lap trinh\ConsoleApp1\BLL\obj\Debug\BLL.csproj.CoreCompileInputs.cache
+D:\Lap trinh\ConsoleApp1\BLL\obj\Debug\BLL.csproj.Up2Date
+D:\Lap trinh\ConsoleApp1\BLL\obj\Debug\BLL.dll
+D:\Lap trinh\ConsoleApp1\BLL\obj\Debug\BLL.pdb
+D:\final ;))\ConsoleApp1\BLL\bin\Debug\BLL.dll
+D:\final ;))\ConsoleApp1\BLL\bin\Debug\BLL.pdb
+D:\final ;))\ConsoleApp1\BLL\bin\Debug\DAL.dll
+D:\final ;))\ConsoleApp1\BLL\bin\Debug\DTO.dll
+D:\final ;))\ConsoleApp1\BLL\bin\Debug\DAL.pdb
+D:\final ;))\ConsoleApp1\BLL\bin\Debug\DTO.pdb
+D:\final ;))\ConsoleApp1\BLL\obj\Debug\BLL.csproj.AssemblyReference.cache
+D:\final ;))\ConsoleApp1\BLL\obj\Debug\BLL.csproj.CoreCompileInputs.cache
+D:\final ;))\ConsoleApp1\BLL\obj\Debug\BLL.csproj.Up2Date
+D:\final ;))\ConsoleApp1\BLL\obj\Debug\BLL.dll
+D:\final ;))\ConsoleApp1\BLL\obj\Debug\BLL.pdb
+C:\Users\Admin\Desktop\FINAL1\ConsoleApp1\BLL\bin\Debug\BLL.dll
+C:\Users\Admin\Desktop\FINAL1\ConsoleApp1\BLL\bin\Debug\BLL.pdb
+C:\Users\Admin\Desktop\FINAL1\ConsoleApp1\BLL\bin\Debug\DAL.dll
+C:\Users\Admin\Desktop\FINAL1\ConsoleApp1\BLL\bin\Debug\DTO.dll
+C:\Users\Admin\Desktop\FINAL1\ConsoleApp1\BLL\bin\Debug\DAL.pdb
+C:\Users\Admin\Desktop\FINAL1\ConsoleApp1\BLL\bin\Debug\DTO.pdb
+C:\Users\Admin\Desktop\FINAL1\ConsoleApp1\BLL\obj\Debug\BLL.csproj.AssemblyReference.cache
+C:\Users\Admin\Desktop\FINAL1\ConsoleApp1\BLL\obj\Debug\BLL.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\FINAL1\ConsoleApp1\BLL\obj\Debug\BLL.csproj.Up2Date
+C:\Users\Admin\Desktop\FINAL1\ConsoleApp1\BLL\obj\Debug\BLL.dll
+C:\Users\Admin\Desktop\FINAL1\ConsoleApp1\BLL\obj\Debug\BLL.pdb

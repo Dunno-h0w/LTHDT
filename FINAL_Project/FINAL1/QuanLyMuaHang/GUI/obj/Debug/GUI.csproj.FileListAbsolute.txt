@@ -1,0 +1,72 @@
+C:\Users\Admin\Desktop\Lập trình hưỡng đối tượng\ConsoleApp1\GUI\bin\Debug\GUI.exe.config
+C:\Users\Admin\Desktop\Lập trình hưỡng đối tượng\ConsoleApp1\GUI\bin\Debug\GUI.exe
+C:\Users\Admin\Desktop\Lập trình hưỡng đối tượng\ConsoleApp1\GUI\bin\Debug\GUI.pdb
+C:\Users\Admin\Desktop\Lập trình hưỡng đối tượng\ConsoleApp1\GUI\bin\Debug\BLL.dll
+C:\Users\Admin\Desktop\Lập trình hưỡng đối tượng\ConsoleApp1\GUI\bin\Debug\DTO.dll
+C:\Users\Admin\Desktop\Lập trình hưỡng đối tượng\ConsoleApp1\GUI\bin\Debug\BLL.pdb
+C:\Users\Admin\Desktop\Lập trình hưỡng đối tượng\ConsoleApp1\GUI\bin\Debug\DTO.pdb
+C:\Users\Admin\Desktop\Lập trình hưỡng đối tượng\ConsoleApp1\GUI\obj\Debug\GUI.csproj.AssemblyReference.cache
+C:\Users\Admin\Desktop\Lập trình hưỡng đối tượng\ConsoleApp1\GUI\obj\Debug\GUI.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\Lập trình hưỡng đối tượng\ConsoleApp1\GUI\obj\Debug\GUI.csproj.Up2Date
+C:\Users\Admin\Desktop\Lập trình hưỡng đối tượng\ConsoleApp1\GUI\obj\Debug\GUI.exe
+C:\Users\Admin\Desktop\Lập trình hưỡng đối tượng\ConsoleApp1\GUI\obj\Debug\GUI.pdb
+D:\Lap trinh\ConsoleApp1\GUI\bin\Debug\GUI.exe.config
+D:\Lap trinh\ConsoleApp1\GUI\bin\Debug\GUI.exe
+D:\Lap trinh\ConsoleApp1\GUI\bin\Debug\GUI.pdb
+D:\Lap trinh\ConsoleApp1\GUI\bin\Debug\BLL.dll
+D:\Lap trinh\ConsoleApp1\GUI\bin\Debug\DTO.dll
+D:\Lap trinh\ConsoleApp1\GUI\bin\Debug\DAL.dll
+D:\Lap trinh\ConsoleApp1\GUI\bin\Debug\BLL.pdb
+D:\Lap trinh\ConsoleApp1\GUI\bin\Debug\DTO.pdb
+D:\Lap trinh\ConsoleApp1\GUI\bin\Debug\DAL.pdb
+D:\Lap trinh\ConsoleApp1\GUI\obj\Debug\GUI.csproj.AssemblyReference.cache
+D:\Lap trinh\ConsoleApp1\GUI\obj\Debug\GUI.exe.config
+D:\Lap trinh\ConsoleApp1\GUI\obj\Debug\GUI.csproj.CoreCompileInputs.cache
+D:\Lap trinh\ConsoleApp1\GUI\obj\Debug\GUI.csproj.Up2Date
+D:\Lap trinh\ConsoleApp1\GUI\obj\Debug\GUI.exe
+D:\Lap trinh\ConsoleApp1\GUI\obj\Debug\GUI.pdb
+D:\final ;))\ConsoleApp1\GUI\bin\Debug\GUI.exe.config
+D:\final ;))\ConsoleApp1\GUI\bin\Debug\GUI.exe
+D:\final ;))\ConsoleApp1\GUI\bin\Debug\GUI.pdb
+D:\final ;))\ConsoleApp1\GUI\bin\Debug\BLL.dll
+D:\final ;))\ConsoleApp1\GUI\bin\Debug\DTO.dll
+D:\final ;))\ConsoleApp1\GUI\bin\Debug\DAL.dll
+D:\final ;))\ConsoleApp1\GUI\bin\Debug\BLL.pdb
+D:\final ;))\ConsoleApp1\GUI\bin\Debug\DTO.pdb
+D:\final ;))\ConsoleApp1\GUI\bin\Debug\DAL.pdb
+D:\final ;))\ConsoleApp1\GUI\obj\Debug\GUI.csproj.AssemblyReference.cache
+D:\final ;))\ConsoleApp1\GUI\obj\Debug\GUI.exe.config
+D:\final ;))\ConsoleApp1\GUI\obj\Debug\GUI.csproj.CoreCompileInputs.cache
+D:\final ;))\ConsoleApp1\GUI\obj\Debug\GUI.csproj.Up2Date
+D:\final ;))\ConsoleApp1\GUI\obj\Debug\GUI.exe
+D:\final ;))\ConsoleApp1\GUI\obj\Debug\GUI.pdb
+C:\Users\Admin\Desktop\FINAL1\ConsoleApp1\GUI\bin\Debug\GUI.exe.config
+C:\Users\Admin\Desktop\FINAL1\ConsoleApp1\GUI\bin\Debug\GUI.exe
+C:\Users\Admin\Desktop\FINAL1\ConsoleApp1\GUI\bin\Debug\GUI.pdb
+C:\Users\Admin\Desktop\FINAL1\ConsoleApp1\GUI\bin\Debug\BLL.dll
+C:\Users\Admin\Desktop\FINAL1\ConsoleApp1\GUI\bin\Debug\DTO.dll
+C:\Users\Admin\Desktop\FINAL1\ConsoleApp1\GUI\bin\Debug\DAL.dll
+C:\Users\Admin\Desktop\FINAL1\ConsoleApp1\GUI\bin\Debug\BLL.pdb
+C:\Users\Admin\Desktop\FINAL1\ConsoleApp1\GUI\bin\Debug\DTO.pdb
+C:\Users\Admin\Desktop\FINAL1\ConsoleApp1\GUI\bin\Debug\DAL.pdb
+C:\Users\Admin\Desktop\FINAL1\ConsoleApp1\GUI\obj\Debug\GUI.csproj.AssemblyReference.cache
+C:\Users\Admin\Desktop\FINAL1\ConsoleApp1\GUI\obj\Debug\GUI.exe.config
+C:\Users\Admin\Desktop\FINAL1\ConsoleApp1\GUI\obj\Debug\GUI.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\FINAL1\ConsoleApp1\GUI\obj\Debug\GUI.csproj.Up2Date
+C:\Users\Admin\Desktop\FINAL1\ConsoleApp1\GUI\obj\Debug\GUI.exe
+C:\Users\Admin\Desktop\FINAL1\ConsoleApp1\GUI\obj\Debug\GUI.pdb
+C:\Users\Admin\Desktop\FINAL1\QuanLyMuaHang\GUI\bin\Debug\GUI.exe.config
+C:\Users\Admin\Desktop\FINAL1\QuanLyMuaHang\GUI\bin\Debug\GUI.exe
+C:\Users\Admin\Desktop\FINAL1\QuanLyMuaHang\GUI\bin\Debug\GUI.pdb
+C:\Users\Admin\Desktop\FINAL1\QuanLyMuaHang\GUI\bin\Debug\BLL.dll
+C:\Users\Admin\Desktop\FINAL1\QuanLyMuaHang\GUI\bin\Debug\DTO.dll
+C:\Users\Admin\Desktop\FINAL1\QuanLyMuaHang\GUI\bin\Debug\DAL.dll
+C:\Users\Admin\Desktop\FINAL1\QuanLyMuaHang\GUI\bin\Debug\BLL.pdb
+C:\Users\Admin\Desktop\FINAL1\QuanLyMuaHang\GUI\bin\Debug\DTO.pdb
+C:\Users\Admin\Desktop\FINAL1\QuanLyMuaHang\GUI\bin\Debug\DAL.pdb
+C:\Users\Admin\Desktop\FINAL1\QuanLyMuaHang\GUI\obj\Debug\GUI.csproj.AssemblyReference.cache
+C:\Users\Admin\Desktop\FINAL1\QuanLyMuaHang\GUI\obj\Debug\GUI.exe.config
+C:\Users\Admin\Desktop\FINAL1\QuanLyMuaHang\GUI\obj\Debug\GUI.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\FINAL1\QuanLyMuaHang\GUI\obj\Debug\GUI.csproj.Up2Date
+C:\Users\Admin\Desktop\FINAL1\QuanLyMuaHang\GUI\obj\Debug\GUI.exe
+C:\Users\Admin\Desktop\FINAL1\QuanLyMuaHang\GUI\obj\Debug\GUI.pdb
