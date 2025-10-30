@@ -1,0 +1,32 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<DanhSach>
+	<SanPham>
+		<MaSP>SP01</MaSP>
+		<TenSP>Sữa rửa mặt Senka</TenSP>
+		<TrongLuong>100</TrongLuong>
+		<GiaBan>150000</GiaBan>
+		<XuatXu>Nhật Bản</XuatXu>
+		<NgaySX>2024-06-01</NgaySX>
+		<Loai>ChamSocDa</Loai>
+	</SanPham>
+
+	<SanPham>
+		<MaSP>SP02</MaSP>
+		<TenSP>Son 3CE đỏ</TenSP>
+		<TrongLuong>20</TrongLuong>
+		<GiaBan>220000</GiaBan>
+		<XuatXu>Hàn Quốc</XuatXu>
+		<NgaySX>2024-07-15</NgaySX>
+		<Loai>TrangDiem</Loai>
+	</SanPham>
+
+	<SanPham>
+		<MaSP>SP03</MaSP>
+		<TenSP>Kem chống nắng Anessa</TenSP>
+		<TrongLuong>60</TrongLuong>
+		<GiaBan>350000</GiaBan>
+		<XuatXu>Nhật Bản</XuatXu>
+		<NgaySX>2024-08-20</NgaySX>
+		<Loai>ChongNang</Loai>
+	</SanPham>
+</DanhSach>

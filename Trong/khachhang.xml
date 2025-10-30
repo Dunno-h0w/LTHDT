@@ -1,0 +1,22 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<DanhSach>
+	<KhachHang>
+		<MaKH>KH01</MaKH>
+		<TenKH>Nguyen Van A</TenKH>
+		<SoDT>0909123456</SoDT>
+		<SanPhamMua>
+			<MaSP>SP01</MaSP>
+			<MaSP>SP02</MaSP>
+		</SanPhamMua>
+	</KhachHang>
+
+	<KhachHang>
+		<MaKH>KH02</MaKH>
+		<TenKH>Tran Thi B</TenKH>
+		<SoDT>0938456789</SoDT>
+		<SanPhamMua>
+			<MaSP>SP02</MaSP>
+			<MaSP>SP03</MaSP>
+		</SanPhamMua>
+	</KhachHang>
+</DanhSach>
